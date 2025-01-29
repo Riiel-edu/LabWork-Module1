@@ -28,6 +28,6 @@ public class Car extends Vehicle {
     }
 
     public void displayInfo() {
-        System.out.println("Number of Wheels: " + this.numberOfWheels + "/nColor: " + this.color + "/nEngine Size: " + this.engineSize + "/nFuelType: " + "/nBrand: " + this.brand);
+        System.out.println("Number of Wheels: " + this.numberOfWheels + "\nColor: " + this.color + "\nEngine Size: " + this.engineSize + "\nFuelType: " + "\nBrand: " + this.brand);
     }
 }
